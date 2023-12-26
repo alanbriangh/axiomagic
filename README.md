@@ -16,8 +16,8 @@ The script streamlines the scanning process, making it efficient for users handl
 ## Axiom Guide (spanish)
 Te dejo mi guía en videos par aprender a usar Axiom
 - [Instalación y Uso Básico](https://www.youtube.com/watch?v=NP2Nxm-whs4) 
-[https://www.youtube.com/watch?v=-IGtEdE9Z6Q](https://www.youtube.com/watch?v=-IGtEdE9Z6Q) Crea tus propios Módulos
+- [Crea tus propios Módulos](https://www.youtube.com/watch?v=-IGtEdE9Z6Q) 
 
 ## Digital Ocean u$s 200 coupon
-Cupón de u$s 200.- para tu VPS en Digital Ocean: https://m.do.co/c/6de1329372f1 
-coupon of u$s 200.- for your VPS in Digital Ocean: https://m.do.co/c/6de1329372f1 
+- Cupón de u$s 200.- para tu VPS en Digital Ocean: https://m.do.co/c/6de1329372f1 
+- Coupon of u$s 200.- for your VPS in Digital Ocean: https://m.do.co/c/6de1329372f1 
