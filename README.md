@@ -13,3 +13,11 @@ This Bash script is designed to automate the process of scanning domains using A
 ## Usage
 The script streamlines the scanning process, making it efficient for users handling multiple domains. It's particularly useful for security researchers and penetration testers looking to automate their workflow with Axiom's cloud-based scanning capabilities.
 
+## Axiom Guide (spanish)
+Te dejo mi guía en videos par aprender a usar Axiom
+[https://youtu.be/NP2Nxm-whs4](https://www.youtube.com/watch?v=NP2Nxm-whs4) Instalación y Uso Básico
+[https://www.youtube.com/watch?v=-IGtEdE9Z6Q](https://www.youtube.com/watch?v=-IGtEdE9Z6Q) Crea tus propios Módulos
+
+## Digital Ocean u$s 200 coupon
+Cupón de u$s 200.- para tu VPS en Digital Ocean: https://m.do.co/c/6de1329372f1 
+coupon of u$s 200.- for your VPS in Digital Ocean: https://m.do.co/c/6de1329372f1 
