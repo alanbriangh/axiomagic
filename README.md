@@ -15,7 +15,7 @@ The script streamlines the scanning process, making it efficient for users handl
 
 ## Axiom Guide (spanish)
 Te dejo mi guía en videos par aprender a usar Axiom
-[https://youtu.be/NP2Nxm-whs4](https://www.youtube.com/watch?v=NP2Nxm-whs4) Instalación y Uso Básico
+- [Instalación y Uso Básico](https://www.youtube.com/watch?v=NP2Nxm-whs4) 
 [https://www.youtube.com/watch?v=-IGtEdE9Z6Q](https://www.youtube.com/watch?v=-IGtEdE9Z6Q) Crea tus propios Módulos
 
 ## Digital Ocean u$s 200 coupon
